@@ -1,0 +1,26 @@
+body{
+    background-color: Black;
+}
+
+h1{
+    text-transform: uppercase;
+    font: 3 rem;
+}
+
+.Poster{
+    color:white;
+    width:50%;
+    margin-top: 100px;
+    margin-left:25%;
+    padding :0px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+img {
+    border: 5px White ;
+    width: 100%;
+
+
+}
